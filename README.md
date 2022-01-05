@@ -9,6 +9,8 @@
 
 #### [检测算法](https://github.com/Thanks4T/uuuuu). ：  
 
+#### [分割算法](https://github.com/Thanks4T/uuuuu). ： 
+
 #### [模型部署](https://github.com/Thanks4T/uuuuu). ：  
 	ONNX tensorrt ncnn 
 
