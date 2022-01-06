@@ -1,4 +1,4 @@
-# 计算机视觉
+# 实时的计算机视觉
 ### 主要包括，OpenCV，检测，分割  
 
 #### [OpenCV](https://github.com/Thanks4T/uuuuu). ： 
