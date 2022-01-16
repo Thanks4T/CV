@@ -16,7 +16,6 @@
 #### [模型部署](https://github.com/Thanks4T/uuuuu). ：  
 	ONNX tensorrt ncnn 
 
-```Shell
 ## Client
 ### 客户端包括，WEB，APP，小程序  
 
